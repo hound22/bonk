@@ -9,7 +9,8 @@ You can read about his passing away [here](https://knowyourmeme.com/news/beloved
 This list contains all game versions that bonk texture pack is compatible with:
 
 | Game Versions            |Resource Pack Formats| Bonk Availability|
-|:------------------------:|:-------------------:|:----------------:|
+|:-------------------------|:-------------------:|:----------------:|
+| 1.6.1-1.14.4             |  :heavy_minus_sign: |        :x:        |
 | 1.15–1.16.1              |         5           |:heavy_check_mark:|
 | 1.16.2–1.16.5            |         6           |:heavy_check_mark:|
 | 1.17–1.17.1              |         7           |:heavy_check_mark:|
