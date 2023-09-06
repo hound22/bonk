@@ -6,7 +6,7 @@ You can read about his passing away [here](https://knowyourmeme.com/news/beloved
 
 ### Pack Availability
 
-This list contains all game versions that bonk texture pack is compatible with:
+This list contains all game versions that Bonk resource pack is compatible with:
 
 | Game Versions            |Resource Pack Formats| Bonk Availability|
 |:-------------------------|:-------------------:|:----------------:|
