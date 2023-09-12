@@ -33,7 +33,7 @@ This list contains all game versions that Bonk resource pack is compatible with:
 | 1.19.3                   |         12          |:heavy_check_mark:|
 | 1.19.4                   |         13          |:heavy_check_mark:|
 | 1.20–1.20.1              |         15          |:heavy_check_mark:|
-| 1.20.2-                  |         17          |    :warning:     |
+| 1.20.2-                  |         18          |    :warning:     |
 
 
 ### Credits 
