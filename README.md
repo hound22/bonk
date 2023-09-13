@@ -7,6 +7,9 @@ This resource pack replaces the sounds for player giving/taking damages and mele
 <a href="https://www.curseforge.com/minecraft/texture-packs/bonk">
 <img alt="curseforge" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/curseforge_vector.svg">
 </a>  
+<a href="https://github.com/hound22/bonk">
+<img alt="github" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/github_vector.svg">
+</a>   
 
 ![Modrinth Downloads](https://img.shields.io/modrinth/dt/Er5Sifj6?style=for-the-badge&logo=modrinth&logoColor=%23&labelColor=26292F&color=00AF5C)
 <a>![CurseForge Downloads](https://img.shields.io/curseforge/dt/911251?style=for-the-badge&logo=curseforge&labelColor=26292F&color=%23F16436)</a>
